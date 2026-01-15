@@ -34,4 +34,4 @@ Since the dataset contains proprietary/restricted information, **raw data files 
 **Raúl Moreno Aguilera**
 * **MSc Economics & Finance** (Distinction) - University of Leeds
 * **BSc in Business Administration** - Universidad Mayor
-* [LinkedIn Profile](https://www.linkedin.com/in/raul-moreno-aguilera-/)
+* [LinkedIn Profile](https://www.linkedin.com/in/raul-moreno-aguilera/)
